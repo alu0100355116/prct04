@@ -1,3 +1,5 @@
+# Practica 4 Lenguajes y Paradigmas de la programación
+# Pedro Javier Núñez Rodríguez
 # Definimos vectores que seran las filas de cada matriz
 fa = []
 fb = []
