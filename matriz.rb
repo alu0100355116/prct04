@@ -29,6 +29,17 @@ for i in 0...n
 	D << fd;
 end
 
+# Bucle para la multiplicación
+for k in 0...n
+	for i in 0...n
+		contador = 0
+		for j in 0...m
+			contador = (contador  + (A[i][j] * B[j][i]))
+		end
+		D[k][i] = contador
+	end
+end
+
 # Mostramos las matrices 
 puts 'Matriz A'
 for i in 0...n
