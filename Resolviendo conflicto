@@ -1,0 +1,8 @@
+Auto-merging matriz.rb
+CONFLICT (content): Merge conflict in matriz.rb
+Automatic merge failed; fix conflicts and then commit the result.
+
+Se produce un conflicto al mezclar las dos ramas master y pedromulti
+Lo que hacemos para resolverlo es recargar el fichero modificar y quedarnos
+con lo que queremos, guardamos y a continuacion hacemos un git add para que
+entre en el seguimiento y un nuevo commit con los cambios.

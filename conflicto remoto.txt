@@ -1,0 +1,10 @@
+Conflicto
+
+From github.com:alu0100355116/prct04
+ * branch            master     -> FETCH_HEAD
+Auto-merging matriz.rb
+CONFLICT (add/add): Merge conflict in matriz.rb
+Automatic merge failed; fix conflicts and then commit the result.
+
+Tenemos que accederal fichero y modificamos lo que queramos,los cambios se han dejado comentados, en un posterior commit se quedara solo
+el codigo final
