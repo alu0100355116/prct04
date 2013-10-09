@@ -47,3 +47,21 @@ for i in 0...n
 	end
 	puts "\n"
 end
+
+puts 'Matriz Resultado de la suma'
+for i in 0...n
+	for j in 0...m
+		print ' '
+		print C[i][j]
+	end
+	puts "\n"
+end
+
+puts 'Matriz Resultado de la multiplicación'
+for i in 0...n
+	for j in 0...m
+		print ' '
+		print D[i][j]
+	end
+	puts "\n"
+end
